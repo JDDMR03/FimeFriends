@@ -30,3 +30,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## WebSite
+```sh
+https://fime-friends.web.app/#/
+```
