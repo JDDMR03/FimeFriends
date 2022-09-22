@@ -32,6 +32,4 @@ npm run build
 ```
 
 ## WebSite
-```sh
-https://fime-friends.web.app/#/
-```
+[WebSite](https://fime-friends.web.app/#/)
